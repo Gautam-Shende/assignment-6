@@ -7,7 +7,7 @@ const fs = require("fs");
 const server = http.createServer((req, res) => {
   // this code for using the style.css code in html file to the browser
   if (req.url === "/style.css") {
-    fs.readFile("style.css", (err, data) => {
+    fs.readFile("style.css", (data) => {
       res.writeHead(200, { "Content-Type": "text/css" });
       res.write(data);
       res.end();
@@ -16,7 +16,7 @@ const server = http.createServer((req, res) => {
 
   // Route the Home route entering "/" or "/home" at res.url
   else if (req.url === "/" || req.url === "/home") {
-    fs.readFile("home.html", (err, data) => {
+    fs.readFile("home.html", (data) => {
       res.writeHead(200, { "Content-Type": "text/html" });
       res.write(data);
       res.end();
@@ -25,7 +25,7 @@ const server = http.createServer((req, res) => {
 
   // Route the about route entering "/about" at res.url
   else if (req.url === "/about") {
-    fs.readFile("about.html", (err, data) => {
+    fs.readFile("about.html", (data) => {
       res.writeHead(200, { "Content-Type": "text/html" });
       res.write(data);
       res.end();
@@ -34,7 +34,7 @@ const server = http.createServer((req, res) => {
 
   // Route the Contact route entering "/contact" at res.url
   else if (req.url === "/contact") {
-    fs.readFile("contact.html", (err, data) => {
+    fs.readFile("contact.html", (data) => {
       res.writeHead(200, { "Content-Type": "text/html" });
       res.write(data);
       res.end();
@@ -43,7 +43,7 @@ const server = http.createServer((req, res) => {
 
   // Route and show the 404.html file for any error occured
   else {
-    fs.readFile("404.html", (err, data) => {
+    fs.readFile("404.html", (data) => {
       res.writeHead(404, { "Content-Type": "text/html" });
       res.write(data);
       res.end();
