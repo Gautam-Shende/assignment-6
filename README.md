@@ -2,11 +2,13 @@
 
 ## Description
 This project is a simple Node.js HTTP server that handles multiple routes.
+and handling the diffrent html file paths in web server. In this assignment i used async, await , try catch function for handling files and error's.
 
 ## Routes
 - /home → Home page
 - /about → About page
 - /contact → Contact page
+- if error → 404.html error page 
 
 ## How to Run
 1. Install Node.js
