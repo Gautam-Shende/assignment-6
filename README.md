@@ -17,4 +17,5 @@ and handling the diffrent html file paths in web server. In this assignment i us
    - http://localhost:3000/home
 
 ## Screenshots
-<img width="463" height="492" alt="{BAF606E4-5945-407C-B608-650EECCE5C0B}" src="https://github.com/user-attachments/assets/3e57e200-e45b-4db2-b7d4-3b5fb33ea19b" />
+<img width="469" height="539" alt="{DEE26573-D141-475F-9306-3D1A091884E4}" src="https://github.com/user-attachments/assets/6849b4dd-1ac8-4669-bc9e-74fc95454544" />
+
