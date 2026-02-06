@@ -18,7 +18,7 @@ async function getFile(fileName) {
 // Simple routing object
 // Here we are mapping URL with file and content type
 const routes = {
-  "/404": { file: "404.html", contentType: "text/html" },
+  "/": { file: "404.html", contentType: "text/html" },
   "/home": { file: "home.html", contentType: "text/html" },
   "/about": { file: "about.html", contentType: "text/html" },
   "/contact": { file: "contact.html", contentType: "text/html" },
@@ -75,4 +75,5 @@ const server = http.createServer(async (req, res) => {
 server.listen(3000, () => {
   console.log("Server is running at http://localhost:3000");
 });
+
 
