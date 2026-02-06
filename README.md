@@ -17,13 +17,10 @@ and handling the diffrent html file paths in web server. In this assignment i us
    - http://localhost:3000
 
 ## Screenshots
-<img width="475" height="528" alt="{3464449A-875B-4ECE-8AD4-2A765136535F}" src="https://github.com/user-attachments/assets/b4d599df-9db5-4bfd-96ae-90a93be85349" />
+<img width="472" height="528" alt="{281A520B-CD12-4626-BF91-E88942DAE948}" src="https://github.com/user-attachments/assets/df8c3d25-b689-44d0-b70c-59659c51531c" />
 
+<img width="476" height="523" alt="{F7800D75-A88F-4BB5-A6B1-A206B0740E63}" src="https://github.com/user-attachments/assets/102f72de-9eb1-4c42-8a08-7ceb1867838d" />
 
-<img width="478" height="531" alt="{877739E5-5303-464A-977E-F952DF656875}" src="https://github.com/user-attachments/assets/81db69b8-8819-40dc-ae64-f7c004b5b63a" />
+<img width="475" height="531" alt="{89A9FCB1-62AA-4070-A4B3-23076048A735}" src="https://github.com/user-attachments/assets/d0559b21-512e-468e-a243-08178006a79a" />
 
-
-<img width="477" height="538" alt="{EC30151F-9647-46AB-BE9E-E3E54A305449}" src="https://github.com/user-attachments/assets/ccc6ed1b-07c6-42d6-9f7d-01a1e6f101fd" />
-
-
-<img width="467" height="534" alt="{770F74AC-2FE8-49BE-B973-1B5654372232}" src="https://github.com/user-attachments/assets/eb32be10-d229-460e-b6be-ba1e706747cd" />
+<img width="471" height="523" alt="{0713206E-D885-4FBA-B02D-5818B2F6132A}" src="https://github.com/user-attachments/assets/f4f94dc6-04df-4b41-9ab1-b7b7c8597cce" />
